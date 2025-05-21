@@ -113,6 +113,17 @@ it’s a prediction engine. The model takes sequential text as an input and then
 </VertCenter>
 ```
 
+### Transform
+
+內建的，很好用
+
+用來調大小的
+
+```md
+<<Transform :scale="0.70">
+    <img src="/pics/gemini_API_rate.png" />
+</Transform>
+```
 
 ### 其他
 
